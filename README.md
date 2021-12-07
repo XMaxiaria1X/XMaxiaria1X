@@ -7,5 +7,4 @@
 <!---
 XMaxiaria1X/XMaxiaria1X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->file:///C:/Users/User/Downloads/vtuber_2-removebg-preview.png
---->file:///C:/Users/User/Downloads/vtuber-removebg-preview.png
+
